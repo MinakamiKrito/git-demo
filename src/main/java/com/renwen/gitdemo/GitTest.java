@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("Hello,sell-test");
         System.out.println("Push test");
         System.out.println("Pull test");
+        System.out.println("hahahaha");
         
     }
 }
