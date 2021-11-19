@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello,git3!");
         System.out.println("Hello,sell-git4");
         System.out.println("master-test");
+        System.out.println("Hello,sell-test");
     }
 }
